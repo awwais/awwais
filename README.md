@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **more about programming**
 
-- 👨‍💻 All of my projects are available at [awwais.me](awwais.me)
+- 👨‍💻 All of my projects are available at [awwais.me](awwais.me/projects)
 
 - 💬 Ask me about **Development**
 
