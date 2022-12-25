@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Pakistan.</h3>
 <p align="center">d9ffaca46d5990ec39501bcdf22ee7a9</p>
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="/images/awais.png" alt="Awais photo" width="500" height="600">
 
 ```js
 const name = 'Awais';
