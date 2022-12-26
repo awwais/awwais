@@ -1,6 +1,6 @@
 
 
-<img style="width:100%; height:80%" src="/images/awais.png" alt="Awais photo" >
+
 
 <h1 align="center">Hi there👋, I'm <a href="https://awwais.me/projects/">Awais</a>!</h1>
 <h3 align="center">A developer from Pakistan.</h3>
@@ -37,3 +37,6 @@ while(dev.isCoding())
   <a href="https://twitter.com/awaistwt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:awaisdevops@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+<br>
+<br>
+<img style="width:100%; height:80%" src="/images/awais.png" alt="Awais photo" >
