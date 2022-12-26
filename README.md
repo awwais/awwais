@@ -39,4 +39,4 @@ while(dev.isCoding())
 </p>
 <br>
 <br>
-<img style="width:100%; height:80%" src="/images/awais.png" alt="Awais photo" >
+
