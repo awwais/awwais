@@ -1,6 +1,6 @@
 
 
-<img style="width:100%; height:100%" src="/images/awais.png" alt="Awais photo" >
+<img style="width:100%; height:80%" src="/images/awais.png" alt="Awais photo" >
 
 <h1 align="center">Hi there👋, I'm <a href="https://awwais.me/projects/">Awais</a>!</h1>
 <h3 align="center">A developer from Pakistan.</h3>
