@@ -19,7 +19,7 @@ while(dev.isCoding())
 }
 ```
 
-<p align="center">Check out my <a href="https://awwais.me/projects/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
+<p align="center">Check out my <a href="https://awwais.me/projects/ target="_blank" rel="noopener noreferrer"">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
 <p align="center">
   <a href=""><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="60px"></a>
   <a href=""><img src="https://user-images.githubusercontent.com/30869493/134504475-3893a5e1-2922-4243-a86a-baf17ac61400.png" height="60px"></a>
