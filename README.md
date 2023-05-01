@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there👋, I'm <a href="https://awwais.me/projects/">Awais</a>!</h1>
-<h3 align="center">< A developer from Pakistan</h3>
+<h3 align="center">A developer from Pakistan</h3>
 <p align="center">d9ffaca46d5990ec39501bcdf22ee7a9</p>
 
 ```js
